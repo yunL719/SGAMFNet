@@ -2,7 +2,7 @@
 coming soon
 
 ## Dataset
-### datadownload
+### Data Download
 LEVIR：https://pan.baidu.com/s/1luFXqUHu2b6TJaKSEl0W2Q?pwd=7719
 
 BCDD: https://pan.baidu.com/s/1_TPyu11XrRBsU3LuROR2Zg?pwd=7719
